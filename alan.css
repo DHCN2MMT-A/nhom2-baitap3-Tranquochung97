@@ -1,0 +1,94 @@
+
+ ul {
+	width: 100%;
+	background: #00FFFF ;
+	text-decoration: none;
+	padding: 10px;
+	float: left;
+  	list-style-type: none;
+    text-align: right;
+}
+ li{
+ display: inline-block;
+}
+
+}
+ a:hover {
+  background: #F1F1F1;
+  color: #FF9900;
+}
+body{
+	background: #00FFFF ;
+}
+h1{
+	text-align: center;
+	color: blue;
+}
+h2{
+	color: blue;
+}
+img{
+	width: 17%;
+	height: 20%;
+	border-radius: 50%;
+	display: block;
+	margin-left: 42%;
+	margin-right: auto;
+}
+.centermain{
+	
+
+    padding-left: 32%;
+	padding-right: 32%;
+}
+#EarlyLife,#Career,#PersonalLife{
+	text-decoration: underline;
+	text-align: center;
+}
+p{
+	padding-left: 25%;
+	padding-right: 25%;
+	line-height: normal;
+}
+.bright{
+	color: red;
+}
+#Honours{
+	color: red;
+	text-align: center;
+}
+.bright a:nth-child(odd){
+	padding: 5px;
+	background-color:cadetblue;
+	color: white;
+	text-decoration: none;
+
+}
+.bright a:nth-child(even){
+	padding: 5px;
+	background-color:orangered;
+	color: white;
+	text-decoration: none;
+}
+#InterestingFacts{
+	text-align: center;
+}
+.interesting li{
+	font: 50 20px 'Great Vibes', Helvetica, sans-serif;
+  	color: #blue;
+  	text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
+
+
+}
+.interesting ol{
+	padding-left: 35%;
+}
+.interesting  h3{
+	text-align: center;
+	color: blue;
+	text-decoration: underline;
+}
+.interesting  div{
+	text-align: center;
+}
+
